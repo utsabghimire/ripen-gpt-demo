@@ -1,0 +1,8 @@
+Title: Postharvest senescence profiling in broccoli using tandem mass tag‑based proteomics
+Authors: Yogesh Ahlawat, et al.
+Year: 2024
+Citation: Vegetable Research (2024). DOI: pending
+
+Summary:
+
+This proteomics study complemented transcriptomic analyses by quantifying protein abundance changes during broccoli senescence.  Using tandem mass tag (TMT) labelling and high‑resolution mass spectrometry, the authors identified over five thousand proteins, of which about six hundred showed significant changes during postharvest storage.  Proteins involved in photosynthesis and energy metabolism, such as **RuBisCO large and small subunits (RBCL, RBCS)** and oxygen‑evolving enhancer proteins, declined sharply, reflecting the loss of photosynthetic capacity.  Conversely, proteases, chaperones and antioxidant enzymes (**HSP70**, peroxidases) accumulated, indicating activation of protein degradation and stress responses.  Correlation analysis between transcript and protein levels revealed both concordant and discordant patterns, suggesting post‑transcriptional regulation during senescence.  The dataset highlights metabolic shifts underlying quality loss and identifies candidate proteins for improving shelf life.

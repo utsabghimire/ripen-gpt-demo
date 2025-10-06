@@ -1,0 +1,8 @@
+Title: Unique molecular mechanisms revealed for the effects of temperature, controlled atmosphere, ethylene exposure and 1‑MCP on postharvest senescence of broccoli
+Authors: Yogesh Ahlawat, Song Li, Eleni Pliakoni, Jeffrey Brecht, Tie Liu
+Year: 2024
+Citation: Postharvest Biology and Technology  (2024). DOI: pending
+
+Summary:
+
+Building on prior transcriptomic studies, this paper dissected how different postharvest treatments influence gene expression in harvested broccoli.  Florets were stored at low temperature (4 °C) or high temperature (25 °C), under controlled atmosphere (CA), exposed to ethylene, or treated with the ethylene receptor inhibitor **1‑methylcyclopropene (1‑MCP)**.  RNA sequencing revealed distinct molecular signatures for each treatment.  High temperature accelerated chlorophyll loss and up‑regulated heat shock proteins (**HSP70** and **HSP90**) alongside oxidative stress enzymes.  Low‑temperature and CA storage maintained photosynthetic gene expression and suppressed respiratory genes.  Ethylene exposure activated a network of ethylene response factors (**ERF1**, **ERF4**) and other transcription factors that drive senescence.  Treatment with 1‑MCP delayed senescence by repressing ethylene‑responsive genes and sustaining levels of chlorophyll‑binding proteins.  These findings underscore how temperature, gas composition and hormonal signals collectively modulate the postharvest life of broccoli.

@@ -1,0 +1,8 @@
+Title: Identifying genes regulated during natural, on‑plant senescence in broccoli
+Authors: Utsab Ghimire, Eleni Pliakoni, Fahong Yu, Jeffrey K. Brecht, Tie Liu
+Year: 2023
+Citation: Postharvest Biology and Technology 1206 (2023) 112535. DOI: 10.1016/j.postharvbio.2023.112535
+
+Summary:
+
+This study compared gene expression in broccoli florets that senesced while still attached to the plant (“on‑plant senescence”) with florets harvested and stored under postharvest conditions.  By sequencing RNA from both developmental contexts, the authors identified hundreds of differentially expressed genes.  Natural senescence was characterised by gradual activation of developmental regulators such as NAC and WRKY transcription factors and by the up‑regulation of classical senescence‑associated genes (SAGs) including **SAG12** and **SAG2**.  In contrast, postharvest senescence elicited a rapid stress response involving ethylene signalling, oxidative stress pathways and wound‑induced genes.  Photosynthesis‑related genes, such as **RuBisCO small subunit (RBCS)** and oxygen‑evolving enhancer proteins, declined more quickly during postharvest storage than on the plant.  The work highlights how developmental cues govern on‑plant senescence whereas postharvest senescence is driven by stress and hormonal signals.
